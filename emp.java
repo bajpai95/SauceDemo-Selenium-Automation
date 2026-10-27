@@ -46,27 +46,7 @@ public class emp {
 		}
 		
 		driver.quit();
-		
-//		if(product.equals("Sauce Labs Backpack")) {
-//			System.out.println("Verification is Passed");
-//		}
-//		else {
-//			System.out.println("Verification is Failed");
-//		}
-//		driver.findElement(By.id("remove-sauce-labs-backpack")).click();
-//		int count=driver.findElements(By.className("cart_item")).size();
-//		if(count==0) {
-//			System.out.println("Cart is empty - Verification passed");
-//		}
-//		else {
-//			System.out.println("Cart is not empty - Verification failed");
-//		}
-		
-
-		
-
-	    
-	}
+ }
 
 }
 
